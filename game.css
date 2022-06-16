@@ -1,0 +1,47 @@
+body
+{
+	background: lightblue;
+	background-image: url("https://t3.ftcdn.net/jpg/02/85/56/50/360_F_285565016_g2FGSFU0YPw5oq1TUBScOYEU1kW1Zei6.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color:white;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	color: black;
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+	color: red;
+}
+
+body{
+	color:white
+}
